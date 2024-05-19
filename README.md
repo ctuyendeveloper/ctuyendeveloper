@@ -1,7 +1,7 @@
 
 
 <div align="center">
-### Hi there 👋. I'm Nguyễn Công Tuyền, a mobile development programmer.
+Hi there 👋. I'm Nguyễn Công Tuyền, a mobile development programmer.
 
 
 # 📊GitHub Stats :
